@@ -10,4 +10,4 @@
 ## Nutzung
 Zum Lernen von Git Workflows
 
-fuck off
+fuck you 
